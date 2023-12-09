@@ -17,3 +17,17 @@ ul {
     display: flex;
     gap: 48px;
 }
+
+.section-one {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    margin: 0px;
+    padding: 100px;
+}
+
+.left-one {
+    display: flex;
+    flex-direction: column;
+
+}
