@@ -2,6 +2,10 @@
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    background-color: #1F2937;
+    color: #F9FAF8;
+    margin: 0px;
+    padding: 24px;
 
 }
 
@@ -24,10 +28,21 @@ ul {
     flex-direction: row;
     margin: 0px;
     padding: 100px;
+    background-color:#1F2937;
+    color: #F9FAF8;
+    
+    
 }
 
 .left-one {
     display: flex;
     flex-direction: column;
+    width: 500px;
+    
 
+}
+
+.welcome {
+    font-size: 48px;
+    font-weight: bolder;
 }
