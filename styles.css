@@ -30,19 +30,43 @@ ul {
     padding: 100px;
     background-color:#1F2937;
     color: #F9FAF8;
-    
-    
 }
 
 .left-one {
     display: flex;
     flex-direction: column;
     width: 500px;
-    
-
 }
 
 .welcome {
     font-size: 48px;
     font-weight: bolder;
+}
+
+.section-two {
+    display: flex;
+    flex-direction: column;
+    padding-top: 50px;
+}
+
+.information {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 50px;
+}
+
+.title {
+    justify-content: space-between;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 36px;
+}
+
+.info-text{
+    padding-top: 32px;
+}
+
+img {
+    
 }
