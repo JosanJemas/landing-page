@@ -34,7 +34,7 @@ ul {
 
 .image {
     display: flex;
-    width: 600px;
+    width: 500px;
     height: auto;
 }
 
@@ -129,6 +129,7 @@ img {
     padding: 50px;
     gap: 100px;
     border-radius: 25px;
+    width: 800px;
 }
 
 .left-four {
@@ -136,3 +137,29 @@ img {
     flex-direction: column;
 }
 
+.right-four {
+    display: flex;
+    justify-content: end;
+}
+
+button {
+    background-color: #3882F6;
+    border-radius: 6px;
+    color:#F9FAF8 ;
+    margin: 24px;
+    font-size: 14px;
+    padding: 8px;
+    padding-left: 24px;
+    padding-right: 24px;
+   
+}
+
+.right-four > button {
+    border-color: #F9FAF8;
+}
+
+.button {
+    padding: 0;
+    border: none;
+    background: none;
+}
