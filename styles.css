@@ -9,6 +9,10 @@
 
 }
 
+.logo {
+    font-weight: bolder;
+}
+
 ul {
     display: flex;
     list-style: none;
@@ -44,6 +48,10 @@ ul {
     width: 500px;
 }
 
+.right-one {
+    margin: 32px;
+}
+
 .welcome {
     font-size: 48px;
     font-weight: bolder;
@@ -76,6 +84,7 @@ img {
     
 }
 
+
 .info {
     display: flex;
     flex-direction: column;
@@ -90,6 +99,8 @@ img {
 
 .info-text{
     padding-top: 32px;
+    justify-content: center;
+    display: flex;
 }
 
 .section-three {
@@ -124,6 +135,8 @@ img {
 
 .sign-up {
     display: flex;
+    justify-content: space-between;
+    align-items: center;
     background-color: #3882F6;
     color: #F9FAF8;
     padding: 50px;
@@ -139,7 +152,6 @@ img {
 
 .right-four {
     display: flex;
-    justify-content: end;
 }
 
 button {
@@ -158,8 +170,6 @@ button {
     border-color: #F9FAF8;
 }
 
-.button {
-    padding: 0;
-    border: none;
-    background: none;
+body {
+    font-family:Arial, Helvetica, sans-serif;
 }
