@@ -88,3 +88,25 @@ ul {
     font-size: 18px;
     font-weight: bold;
 }
+
+.section-four {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+    
+}
+
+.sign-up {
+    display: flex;
+    background-color: #3882F6;
+    color: #F9FAF8;
+    padding: 50px;
+    gap: 100px;
+}
+
+.left-four {
+    display: flex;
+    flex-direction: column;
+}
+
