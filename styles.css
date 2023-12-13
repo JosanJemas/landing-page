@@ -60,6 +60,10 @@ ul {
     margin-bottom: 24px;
 }
 
+.description {
+    padding: 16px;
+}
+
 .section-two {
     display: flex;
     flex-direction: column;
