@@ -48,6 +48,7 @@ ul {
     width: 500px;
 }
 
+
 .right-one {
     margin: 32px;
 }
@@ -55,6 +56,8 @@ ul {
 .welcome {
     font-size: 48px;
     font-weight: bolder;
+    text-align: center;
+    margin-bottom: 24px;
 }
 
 .section-two {
@@ -89,6 +92,7 @@ img {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    width: 150px;
 }
 .title {
     justify-content: space-between;
@@ -101,6 +105,7 @@ img {
     padding-top: 32px;
     justify-content: center;
     display: flex;
+    text-align: center;
 }
 
 .section-three {
